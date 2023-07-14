@@ -55,8 +55,8 @@
 
   /* HOME BUTTON ICON */
   --home-icon: url(https://www.docspal.com/files/processed/38/151438-phyjrfed/SaveTwitter.Net%20-%20F03VvLwXoAEwN5N.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
-  --home-position: center; /* home button icon position [default: center] */
-  --home-size: 40px; /* home button icon size [default: 40px] */
+  --home-position: topcenter; /* home button icon position [default: center] */
+  --home-size: 150px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
